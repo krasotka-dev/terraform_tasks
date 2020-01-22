@@ -1,6 +1,4 @@
-variable "bucket" {
-    default "anaras_bucket"
-}
+variable "bucket" {}
 
 variable "region" {}
 
